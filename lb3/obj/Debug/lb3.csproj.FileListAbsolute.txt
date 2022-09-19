@@ -1,0 +1,7 @@
+C:\Users\si1nner\Desktop\lab2\lb3\bin\Debug\lb3.exe.config
+C:\Users\si1nner\Desktop\lab2\lb3\bin\Debug\lb3.exe
+C:\Users\si1nner\Desktop\lab2\lb3\bin\Debug\lb3.pdb
+C:\Users\si1nner\Desktop\lab2\lb3\obj\Debug\lb3.csproj.SuggestedBindingRedirects.cache
+C:\Users\si1nner\Desktop\lab2\lb3\obj\Debug\lb3.csproj.CoreCompileInputs.cache
+C:\Users\si1nner\Desktop\lab2\lb3\obj\Debug\lb3.exe
+C:\Users\si1nner\Desktop\lab2\lb3\obj\Debug\lb3.pdb

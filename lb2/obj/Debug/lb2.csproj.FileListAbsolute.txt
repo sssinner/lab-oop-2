@@ -1,0 +1,7 @@
+C:\Users\si1nner\Desktop\lab2\lb2\obj\Debug\lb2.csproj.SuggestedBindingRedirects.cache
+C:\Users\si1nner\Desktop\lab2\lb2\obj\Debug\lb2.csproj.CoreCompileInputs.cache
+C:\Users\si1nner\Desktop\lab2\lb2\bin\Debug\lb2.exe.config
+C:\Users\si1nner\Desktop\lab2\lb2\bin\Debug\lb2.exe
+C:\Users\si1nner\Desktop\lab2\lb2\bin\Debug\lb2.pdb
+C:\Users\si1nner\Desktop\lab2\lb2\obj\Debug\lb2.exe
+C:\Users\si1nner\Desktop\lab2\lb2\obj\Debug\lb2.pdb
